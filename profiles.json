@@ -6,8 +6,28 @@
 			"title": "Lawyer",
 			"phone_number": "(416) 955-9501",
 			"email_address": "ecappellacci@capplaw.ca",
-			"profile_photo": "http://capplaw.local/wp-content/uploads/2025/09/IMG_3990-scaled.jpeg",
-			"mobile_image": "http://capplaw.local/wp-content/uploads/2025/09/IMG_3990-scaled.jpeg",
+			"profile_photo": "https://raw.githubusercontent.com/t-yauk/capplawimages/main/ernest-cappellacci-2025.jpg",
+			"mobile_image": "https://raw.githubusercontent.com/t-yauk/capplawimages/main/ernest-cappellacci-2025.jpg",
+			"description": "For more than 30 years, lawyer Ernest Cappellacci has been primarily advising Toronto-based health care providers on corporate and commercial matters, along with a variety of more specialized services within the health care field.<br><br>Mr. Cappellacci's clients have included doctors, other health care professionals, hospital medical staff groups, provincial physician specialist associations and health care companies.<br><br>Mr. Cappellacci acts as legal counsel to specialist physician provincial associations advising on various issues including legislative, regulatory and policy changes affecting them, as well as internal corporate matters. He also has provided corporate and commercial law services to non-health care business corporations."
+		},
+
+		{
+			"name": "Gina DaRoza",
+			"title": "Lawyer",
+			"phone_number": "(416) 955-9502",
+			"email_address": "gdaroza@capplaw.ca",
+			"profile_photo": "https://raw.githubusercontent.com/t-yauk/capplawimages/main/gina-daroza-2025.jpg",
+			"mobile_image": "https://raw.githubusercontent.com/t-yauk/capplawimages/main/gina-daroza-2025.jpg",
+			"description": "For more than 30 years, lawyer Ernest Cappellacci has been primarily advising Toronto-based health care providers on corporate and commercial matters, along with a variety of more specialized services within the health care field.<br><br>Mr. Cappellacci's clients have included doctors, other health care professionals, hospital medical staff groups, provincial physician specialist associations and health care companies.<br><br>Mr. Cappellacci acts as legal counsel to specialist physician provincial associations advising on various issues including legislative, regulatory and policy changes affecting them, as well as internal corporate matters. He also has provided corporate and commercial law services to non-health care business corporations."
+		},
+
+		{
+			"name": "Jeffrey Murray",
+			"title": "Lawyer",
+			"phone_number": "(416) 955-1681",
+			"email_address": "jmurray@capplaw.ca",
+			"profile_photo": "https://raw.githubusercontent.com/t-yauk/capplawimages/main/jeff-murray-old.jpeg",
+			"mobile_image": "https://raw.githubusercontent.com/t-yauk/capplawimages/main/jeff-murray-old.jpeg",
 			"description": "For more than 30 years, lawyer Ernest Cappellacci has been primarily advising Toronto-based health care providers on corporate and commercial matters, along with a variety of more specialized services within the health care field.<br><br>Mr. Cappellacci's clients have included doctors, other health care professionals, hospital medical staff groups, provincial physician specialist associations and health care companies.<br><br>Mr. Cappellacci acts as legal counsel to specialist physician provincial associations advising on various issues including legislative, regulatory and policy changes affecting them, as well as internal corporate matters. He also has provided corporate and commercial law services to non-health care business corporations."
 		}
 		
